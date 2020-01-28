@@ -1,0 +1,13 @@
+img
+{
+    margin: 25px;
+    
+}
+.a
+{
+          font-size: 25px;
+     display: flex;
+     justify-content:center;
+     align-content: space-between;
+     color: blue;
+}
